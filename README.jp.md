@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="banner.png" alt="🚀🧰" width="100%">
+</p>
 [English](README.md) | **日本語**
 
-# RocketToolbox 🚀🛠️🧰
+# RocketToolbox
 航空宇宙の計算・解析のための標準的なJuliaユーティリティ集  
 
 _2026年1月22日より開発中_
